@@ -1,5 +1,5 @@
 ---
-title: "Assignment3_Yelp"
+title: "Text Mining Analysis - Yelp Restaurant Reviews"
 output: html_document
 date: "2022-11-18"
 ---
